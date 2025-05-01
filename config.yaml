@@ -1,0 +1,8 @@
+path: C:/Users/santo/OneDrive/Desktop/Portfolio/YoLo Study/data
+train: images/train
+val: images/train
+
+
+names:
+  0: person
+
